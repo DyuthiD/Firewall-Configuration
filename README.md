@@ -27,9 +27,8 @@ Configure and test basic firewall rules using Windows Firewall (or UFW on Linux)
 ---
 
 ## 📸 Screenshots:
-- `block_port_23.png`
+- `block_port_23.pdf`
 - `Inbound rules.png`
-- `clearing rule.png` .
 
 ---
 
